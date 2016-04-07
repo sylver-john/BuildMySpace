@@ -26,7 +26,8 @@ if "%ERRORLEVEL%"=="0" (
 You can replace ```2>NUL ``` by ```2>myFilePath.txt```to keep track.
 
 What next ? 
-*  use a loop and a variable to store the program's names
+*  save program's names in a list
+*  use a loop to found the file and start the program
 *  write a script for linux 
 
 More information here : http://ss64.com/
