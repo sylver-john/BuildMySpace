@@ -1,5 +1,5 @@
 # BuildMySpace
-just a simple batch file for windows which will launch your workspace
+A simple batch file for Windows which will launch your workspace
 
 If you don't want to waste your time everyday to start your workspace (even if it's 35,58sec) and if you work on Windows you can:
 
@@ -10,7 +10,7 @@ If you don't want to waste your time everyday to start your workspace (even if i
 5. Work !
 
 
-## Hiw write the script ?
+## How write the script ?
 
 these lines will search for your programme, check if it's running, if not, will start it.
 
