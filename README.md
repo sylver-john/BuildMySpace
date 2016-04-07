@@ -28,3 +28,5 @@ You can replace ```2>NUL ``` by ```2>myFilePath.txt```to keep the errors.
 What next ? 
 *  use a loop and a variables to store the programme's names
 *  write a script for linux 
+
+More informations here : http://ss64.com/
