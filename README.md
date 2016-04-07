@@ -5,7 +5,7 @@ If you don't want to waste your time everyday starting your workspace (even if i
 
 1. Open your favorite text editor
 2. add some batch lines (it will be explained thereafter)
-3. save as batch file
+3. save as bat file
 4. double click on the file
 5. Work !
 
