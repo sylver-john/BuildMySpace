@@ -15,11 +15,11 @@ If you don't want to waste your time everyday starting your workspace (even if i
 these lines will look for your program, check if it's running, if not, will start it.
 
 ``` 
-tasklist /FI "IMAGENAME eq chrome.exe" 2>NUL | find /I /N "chrome.exe">NUL
+tasklist /FI "IMAGENAME eq MyProgram.exe" 2>NUL | find /I /N "MyProgram.exe">NUL
 if "%ERRORLEVEL%"=="0" (
-	echo Programm is running
+	echo Program is running
 ) else (
-	start "chrome" "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe"
+	start "MyProgram" "pathToMyProgram.exe"
 )
 ```
 
