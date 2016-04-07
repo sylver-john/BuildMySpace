@@ -1,7 +1,7 @@
 # BuildMySpace
 just a simple batch file for windows which will launch your workspace
 
-If you don't waste your time everday to start your workspace (even if it's 35,58sec) and if you work on Windows you can:
+If you don't want to waste your time everyday to start your workspace (even if it's 35,58sec) and if you work on Windows you can:
 
 1. Open your favorite text editor
 2. add some batch lines (it will be explained thereafter)
