@@ -10,7 +10,7 @@ If you don't want to waste your time everyday to start your workspace (even if i
 5. Work !
 
 
-## What should i write ?
+## Hiw write the script ?
 
 these lines will search for your programme, check if it's running, if not, will start it.
 
@@ -22,4 +22,6 @@ if "%ERRORLEVEL%"=="0" (
 	start "chrome" "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe"
 )
 ```
+
+You can replace ```2>NUL ``` by ```2>myFilePath.txt```to keep the errors.
 
