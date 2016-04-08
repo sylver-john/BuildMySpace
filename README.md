@@ -22,8 +22,9 @@ if "%ERRORLEVEL%"=="0" (
 	start "MyProgram" "pathToMyProgram.exe"
 )
 ```
-
-You can replace ```2>NUL ``` by ```2>myFilePath.txt```to keep track.
+## Tips:
+* You can replace ```2>NUL ``` by ```2>myFilePath.txt```to keep track.
+* Starting many apps may crash or slow down your machine, to prevent this you can add ```SLEEP 5```or ```ping -n 2 localhost >nul``` between each start
 
 What next ? 
 *  save program's names in a list
